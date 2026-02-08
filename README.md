@@ -17,7 +17,8 @@ Focus areas:
 - [ ] Build a “folder summarizer” script
 
 ### Phase 2 — AI Coding Workflow (Week 3–4)
-- [ ] Set up Cursor or VSCode + Cline
+- [ ] Set up Claude Code (CLI) for repo-aware coding
+- [ ] (Optional) VSCode + Cline as an editor companion
 - [ ] Practice: refactor, add tests, fix bugs on a real repo
 - [ ] Track prompts that worked well
 
